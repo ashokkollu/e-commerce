@@ -1,0 +1,73 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+   
+}
+.navbar{
+    background-color:#a84f0e;
+}
+.navbar-brand{
+    width: 10%;
+
+}
+
+.nav-link{
+    color: white !important;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.bgimg{
+    background-image:url(images/grilled-chicken-legs-flaming-grill-with-grilled-vegetables-with-tomatoes-potatoes-pepper-seeds-salt.jpg);
+    width: 100vw;
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    font-size: 50px;
+}
+
+.htbn{
+    font-weight: bold important;
+
+}
+.fa-bars{
+    color: white;
+}
+
+/* about */
+.mainhead{
+    color: green;
+    font-size: 45px;
+}
+.hist{
+    color: coral;
+    text-decoration: underline 1px solid gold;
+}
+.apara{
+    color: green;
+    line-height: 30px;
+}
+
+
+.d-block{
+    aspect-ratio: 3/2;
+    width: 50%;
+}
+.card-img-top{
+    aspect-ratio: 2/3;
+}
+
+.card-title{
+    color:brown;
+    text-shadow: 1px 1px 1px black;
+    text-align: center;
+}
+.card-text{
+    color: #fc3e1c;
+    text-align: center;
+}
