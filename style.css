@@ -4,7 +4,7 @@
    
 }
 .navbar{
-    background-color:#a84f0e;
+    background-color:#f48484;
 }
 .navbar-brand{
     width: 10%;
@@ -20,7 +20,7 @@
 .bgimg{
     background-image:url(images/grilled-chicken-legs-flaming-grill-with-grilled-vegetables-with-tomatoes-potatoes-pepper-seeds-salt.jpg);
     width: 100vw;
-    height: 70vh;
+    height: 90vh;
     background-size: cover;
     background-position: center;
 }
@@ -41,7 +41,7 @@
 
 /* about */
 .mainhead{
-    color: green;
+    color: rgb(239, 19, 19);
     font-size: 45px;
 }
 .hist{
@@ -70,4 +70,20 @@
 .card-text{
     color: #fc3e1c;
     text-align: center;
+}
+
+
+/* payment */
+
+#basic-addon1{
+    background-color: #f48484;
+    color: aliceblue;
+    font-weight: bold;
+    border: none;
+}
+
+
+.form-label{
+    color: #f48484;
+    font-weight: bold;
 }
