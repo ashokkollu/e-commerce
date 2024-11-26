@@ -3,11 +3,14 @@
     box-sizing: border-box;
    
 }
+
 .navbar{
     background-color:#f48484;
+
+    
 }
 .navbar-brand{
-    width: 10%;
+    width: 8%;
 
 }
 
@@ -18,8 +21,8 @@
 }
 
 .bgimg{
-    background-image:url(images/grilled-chicken-legs-flaming-grill-with-grilled-vegetables-with-tomatoes-potatoes-pepper-seeds-salt.jpg);
-    width: 100vw;
+    background-image:url(images/welcome.png);
+    width: auto;
     height: 90vh;
     background-size: cover;
     background-position: center;
@@ -86,4 +89,21 @@
 .form-label{
     color: #f48484;
     font-weight: bold;
+}
+
+
+.footer{
+    background-color:#f48484;
+
+}
+
+.carousel-item{
+    width: 80%;
+    
+}
+
+
+.carousel-item img{
+    width:90vw;
+    height: 90vh;
 }
